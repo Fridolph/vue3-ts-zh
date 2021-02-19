@@ -1,0 +1,5 @@
+{
+  "name": "fridolph",
+  "type": "jsonp",
+  "list": ["hello", "world"]
+}

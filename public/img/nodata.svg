@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="229px" viewBox="0 0 280 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>无数据图标</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="威胁分析-告警分析-无数据" transform="translate(-820.000000, -306.000000)">
+            <g id="暂无数据" transform="translate(820.000000, 306.000000)">
+                <g id="无数据图标">
+                    <g id="Group-7" transform="translate(231.000000, 44.000000)" stroke="#EFEFEF" stroke-linecap="round" stroke-width="6">
+                        <path d="M0.5,22.5 L22.5,0.5" id="Line-10"></path>
+                        <path d="M12.5,41.5 L34.5,19.5" id="Line-10-Copy"></path>
+                    </g>
+                    <path d="M223.961941,195.961941 L214.522799,209.961941 L203.961941,195.961941 L203.961941,105.961941 C203.961941,102.648232 206.648232,99.9619408 209.961941,99.9619408 L217.961941,99.9619408 C221.275649,99.9619408 223.961941,102.648232 223.961941,105.961941 L223.961941,195.961941 Z" id="Combined-Shape" fill="#EFEFEF" transform="translate(213.961941, 154.961941) rotate(-315.000000) translate(-213.961941, -154.961941) "></path>
+                    <path d="M148,12 L156,12 C161.522847,12 166,16.4771525 166,22 L166,23 L193,23 C197.418278,23 201,26.581722 201,31 L201,203 C201,207.418278 197.418278,211 193,211 L60,211 C55.581722,211 52,207.418278 52,203 L52,31 C52,26.581722 55.581722,23 60,23 L106,23 L106,22 C106,16.4771525 110.477153,12 116,12 L123,12 C123,7.02943725 127.029437,3 132,3 L139,3 C143.970563,3 148,7.02943725 148,12 Z" id="Combined-Shape" fill="#EFEFEF"></path>
+                    <g id="Group-7" transform="translate(24.500000, 137.000000) scale(-1, 1) translate(-24.500000, -137.000000) translate(7.000000, 116.000000)" stroke="#EFEFEF" stroke-linecap="round" stroke-width="6">
+                        <path d="M0.5,22.5 L22.5,0.5" id="Line-10"></path>
+                        <path d="M12.5,41.5 L34.5,19.5" id="Line-10-Copy"></path>
+                    </g>
+                    <path d="M255,215 C258.865993,215 262,218.134007 262,222 C262,225.865993 258.865993,229 255,229 L103,229 C99.1340068,229 96,225.865993 96,222 C96,218.134007 99.1340068,215 103,215 L7,215 C3.13400675,215 4.73447626e-16,211.865993 0,208 C-4.73447626e-16,204.134007 3.13400675,201 7,201 L273,201 C276.865993,201 280,204.134007 280,208 C280,211.865993 276.865993,215 273,215 L255,215 Z" id="Combined-Shape" fill="#EFEFEF"></path>
+                    <g id="Group-4" transform="translate(66.000000, 0.000000)">
+                        <rect id="Rectangle-2" stroke="#979797" stroke-width="2" fill="#D8D8D8" x="1" y="14" width="147" height="186" rx="8"></rect>
+                        <rect id="Rectangle-2" stroke="#979797" stroke-width="2" fill="#EFEFEF" x="14" y="26" width="122" height="162" rx="8"></rect>
+                        <rect id="Rectangle-2" fill="#FFFFFF" x="25" y="27" width="110" height="148" rx="8"></rect>
+                        <g id="Group" transform="translate(47.000000, 0.000000)">
+                            <path d="M1,31 L59,31 L59,20 C59,15.0294373 54.9705627,11 50,11 L43,11 L43,10 C43,5.02943725 38.9705627,1 34,1 L26,1 C21.0294373,1 17,5.02943725 17,10 L17,11 L10,11 C5.02943725,11 1,15.0294373 1,20 L1,31 Z" id="Combined-Shape" stroke="#979797" stroke-width="2" fill="#EFEFEF"></path>
+                            <circle id="Oval-2" fill="#979797" cx="30" cy="12" r="5"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(30.000000, 96.000000)">
+                            <polygon id="Rectangle-6" fill="#EFEFEF" points="0 40.356576 29.9209225 11.1386952 58.4106167 31.4599416 90 0 90 53.8541792 0 53.8541792"></polygon>
+                            <path d="M0,40 L4,40 L4,54 L0,54 L0,40 Z M28,11 L32,11 L32,54 L28,54 L28,11 Z M56,30 L60,30 L60,54 L56,54 L56,30 Z M86,0 L90,0 L90,54 L86,54 L86,0 Z" id="Combined-Shape" fill="#979797"></path>
+                        </g>
+                        <g id="Group-2" transform="translate(29.000000, 67.000000)">
+                            <polygon id="Rectangle-7" fill="#979797" transform="translate(91.473653, 8.473653) rotate(-312.000000) translate(-91.473653, -8.473653) " points="91.6851113 2.47365259 97.4736526 14.4736526 85.4736526 14.4736526"></polygon>
+                            <polyline id="Path-7" stroke="#979797" stroke-width="4" points="0 45.4863517 29.908597 19.9368046 58.58149 39.4764266 91.556176 8.01263706"></polyline>
+                        </g>
+                    </g>
+                    <g id="铅笔" transform="translate(214.961941, 142.961941) rotate(-315.000000) translate(-214.961941, -142.961941) translate(204.961941, 87.961941)">
+                        <path d="M1,95 L19,95 L19,6 C19,3.23857625 16.7614237,1 14,1 L6,1 C3.23857625,1 1,3.23857625 1,6 L1,95 Z" id="Rectangle-4" stroke="#979797" stroke-width="2" fill="#D8D8D8"></path>
+                        <path d="M7,4 L13,4 C14.6568542,4 16,5.34314575 16,7" id="Rectangle-11" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M4.29289322,11.7071068 L9.29289322,11.7071068 C11.5020322,11.7071068 13.2928932,13.4979678 13.2928932,15.7071068 L13.2928932,93.7071068 L2.29289322,93.7071068 L2.29289322,13.7071068 C2.29289322,12.6025373 3.18832372,11.7071068 4.29289322,11.7071068 Z" id="Rectangle-4" fill="#EFEFEF"></path>
+                        <path d="M18.0764828,97 L1.96294522,97 L10.1603421,108.279476 L18.0764828,97 Z M18.0764828,97 L1.96294522,97 L10.1603421,108.279476 L18.0764828,97 Z M18.0764828,97 L1.96294522,97 L10.1603421,108.279476 L18.0764828,97 Z" id="Rectangle-9" stroke="#979797" stroke-width="2" fill="#FFFFFF"></path>
+                        <path d="M6,104 L14,104 L10.0698186,108 L6,104 Z M6,104 L14,104 L10.0698186,108 L6,104 Z M6,104 L14,104 L10.0698186,108 L6,104 Z" id="Rectangle-9-Copy" fill="#979797"></path>
+                        <rect id="Rectangle-8" fill="#979797" x="1" y="11" width="18" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
