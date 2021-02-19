@@ -33,7 +33,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-, "tests/unit/HelloWorld.test"  ],
+  ],
   "exclude": [
     "node_modules"
   ]

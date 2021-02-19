@@ -6,9 +6,11 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit --watch",
+    "test:coverage": "vue-cli-service test:unit --coverage",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "ant-design-vue": "^2.0.0",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.0-beta1",
     "mitt": "^2.1.0",
